@@ -2,7 +2,7 @@
 
 Lambda Alpha Labs builds trust infrastructure for AI-native software engineering.
 
-Our flagship product is **Graphenium**, the local trust and verification layer for AI-generated code changes. Graphenium maps real codebases so coding agents can plan changes, inspect blast radius, and verify edits before they land.
+Our flagship product is **Graphenium**, the trust and verification layer for AI-generated code changes. Graphenium maps real codebases so coding agents can plan changes, inspect blast radius, and verify edits before they land.
 
 ## Graphenium
 
