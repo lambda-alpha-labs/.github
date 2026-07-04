@@ -1,2 +1,5 @@
 # .github
-Organization profile for Lambda Alpha Labs, makers of Graphenium.
+
+Organization profile and community health files for Lambda Alpha Labs.
+
+See [`profile/README.md`](profile/README.md).
